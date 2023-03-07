@@ -1,0 +1,14 @@
+.btn-outline-success{
+  color: hotpink;
+border-color: hotpink;
+}
+.btn-outline-success:hover{
+background-color: hotpink;
+color: white;
+border-color: hotpink;
+}
+footer{
+  background-color: hotpink;
+  color: white;
+  text-align: center;
+}
